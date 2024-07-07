@@ -1,7 +1,7 @@
 # Movie-Search-App
 Discover and explore your favorite movies effortlessly with our Movie Search App. This app provides real-time details on ratings, genres, release dates, and more, making it your ultimate cinematic companion.
 
-#Technologies Used:
+Technologies Used:
 
 #Frontend: HTML, CSS (with animations), JavaScript
 
