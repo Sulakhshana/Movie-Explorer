@@ -3,7 +3,7 @@ Discover and explore your favorite movies effortlessly with our Movie Search App
 
 Technologies Used:
 
-#Frontend: HTML, CSS (with animations), JavaScript
+#Frontend: HTML, CSS, JavaScript
 
 #API: The Movie Database (TMDb) API for fetching movie data
 
