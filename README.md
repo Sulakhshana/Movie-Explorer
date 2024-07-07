@@ -9,6 +9,9 @@ Technologies Used:
 
 #Features:
 ->Search for movies by name.
+
 ->Real-time display of movie details including ratings, genres, and release dates.
+
 ->Responsive design for seamless use across devices.
+
 ->Unleash your inner cinephile and start exploring movies today with our Movie Search App!
